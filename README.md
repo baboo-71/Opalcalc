@@ -217,4 +217,4 @@ OpalCalc is available as a full free version with all features and updates inclu
 Take your calculations to the next level with OpalCalc! Download now and enjoy the complete package of features tailored for your needs.
 
 ---
-**Last updated:** 2026-10-18 08:39:47 UTC
+**Last updated:** 2026-10-18 13:02:49 UTC
